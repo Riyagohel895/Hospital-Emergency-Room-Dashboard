@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 
-> 📊 An interactive Power BI dashboard designed to analyze hospital emergency room patient data and transform it into meaningful healthcare insights.
+> 📊 An interactive healthcare analytics dashboard designed to analyze hospital emergency room patient data and transform it into meaningful insights.
 
 ---
 
@@ -12,11 +12,20 @@
 
 ## 📊 Project Overview
 
-The **Hospital Emergency Room Dashboard** is an interactive data analytics project created using **Microsoft Power BI** to analyze and visualize hospital emergency room patient data.
+The **Hospital Emergency Room Dashboard** is a data analytics project focused on analyzing and visualizing emergency room patient data.
 
-This project follows an **Iterative Dashboard Design** approach, where the dashboard is developed and refined to present complex healthcare data through clear visualizations, KPIs, and interactive filters.
+The project follows an **Iterative Dashboard Design** approach, where the dashboard is refined to present important information through clear visualizations, KPIs, and interactive analysis.
 
-The dashboard provides insights into patient volume, admission status, age groups, waiting time, timeliness, gender distribution, patient satisfaction, and department referrals.
+The dashboard provides insights into:
+
+* Patient admissions
+* Patient age groups
+* Waiting time
+* Timeliness
+* Gender distribution
+* Patient satisfaction
+* Department referrals
+* Monthly patient trends
 
 ---
 
@@ -26,22 +35,23 @@ The main objective of this project is to transform emergency room patient data i
 
 ### Key Objectives
 
-- Analyze the total number of emergency room patients.
-- Understand patient admission and non-admission rates.
-- Analyze patients across different age groups.
-- Measure patient waiting time and timeliness.
-- Analyze patient distribution by gender.
-- Identify departments receiving the highest number of referrals.
-- Monitor patient satisfaction.
-- Analyze monthly patient trends.
+* Analyze the total number of emergency room patients.
+* Understand patient admission and non-admission status.
+* Analyze patients across different age groups.
+* Measure patient waiting time.
+* Identify the percentage of patients seen within 30 minutes.
+* Analyze patient distribution by gender.
+* Identify departments receiving the highest number of referrals.
+* Monitor patient satisfaction.
+* Analyze monthly patient trends.
 
 ---
 
-## 🔍 Key Insights & Analysis
+## 🔍 Key Analysis
 
 ### 🏥 Patient Admission Status
 
-Shows the number and percentage of patients who were **admitted** and **not admitted**.
+Analyzes the number of patients who were **admitted** and **not admitted**.
 
 ### 👥 Patient Age Analysis
 
@@ -49,56 +59,56 @@ Groups patients into different age ranges to understand the distribution of emer
 
 ### ⏱️ Timeliness Analysis
 
-Measures the percentage of patients seen within the expected time and compares **on-time** versus **delayed** patients.
+Measures the percentage of patients who were **seen within 30 minutes** and identifies delayed patients.
 
 ### ⚥ Gender Analysis
 
-Displays the distribution of patients by gender to understand demographic patterns.
+Displays the number and distribution of patients by gender.
 
 ### 🏨 Department Referral Analysis
 
 Identifies which hospital departments receive the highest number of patient referrals.
 
-### 📅 Monthly Analysis
+### 📅 Monthly Patient Analysis
 
-Allows users to explore patient data month by month using interactive filters.
+Allows patient activity to be analyzed across different months.
 
 ### ⭐ Patient Satisfaction
 
-Provides an overview of the patient satisfaction score.
+Provides an overview of the average patient satisfaction score.
 
 ### ⏳ Average Wait Time
 
-Shows the average time patients wait before receiving attention.
+Measures the average amount of time patients wait before receiving attention.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI**
-- **Power Query**
-- **Microsoft Excel**
-- **Data Cleaning**
-- **Data Transformation**
-- **Data Analysis**
-- **Data Visualization**
-- **Dashboard Design**
+* **Microsoft Excel**
+* **Power BI**
+* **Power Query**
+* **Data Cleaning**
+* **Data Transformation**
+* **Data Analysis**
+* **Data Visualization**
+* **Dashboard Design**
 
 ---
 
 ## 📌 Dashboard Features
 
-- 📅 Interactive monthly filters
-- 📆 Year selection
-- 📊 KPI cards
-- 🏥 Admission status analysis
-- 👥 Age-group analysis
-- ⚥ Gender analysis
-- ⏱️ Timeliness analysis
-- 🏨 Department referral analysis
-- ⏳ Average wait time
-- ⭐ Patient satisfaction score
-- 📈 Interactive data visualizations
+* 📊 KPI cards
+* 📅 Monthly filtering
+* 📆 Year selection
+* 🏥 Admission status analysis
+* 👥 Age-group analysis
+* ⚥ Gender analysis
+* ⏱️ Timeliness analysis
+* 🏨 Department referral analysis
+* ⏳ Average wait time
+* ⭐ Patient satisfaction analysis
+* 📈 Interactive visualizations
 
 ---
 
@@ -106,13 +116,14 @@ Shows the average time patients wait before receiving attention.
 
 Through this project, I gained practical experience in:
 
-- Cleaning and transforming data using **Power Query**
-- Creating interactive dashboards using **Power BI**
-- Selecting appropriate visualizations for different types of data
-- Creating meaningful KPIs
-- Analyzing healthcare-related datasets
-- Applying an **iterative approach to dashboard design**
-- Presenting complex data in a simple and understandable format
+* Cleaning and preparing data for analysis
+* Transforming data using Power Query
+* Creating meaningful KPIs
+* Designing interactive dashboards
+* Selecting appropriate charts and visualizations
+* Analyzing healthcare-related data
+* Applying an iterative approach to dashboard design
+* Presenting complex data in a clear and understandable way
 
 ---
 
@@ -120,9 +131,19 @@ Through this project, I gained practical experience in:
 
 This project helped me strengthen my skills in:
 
-**Data Analysis • Power BI • Power Query • Data Visualization • Dashboard Design**
+**Data Analysis • Excel • Power BI • Power Query • Data Visualization • Dashboard Design**
 
-It also gave me hands-on experience in converting raw data into an interactive dashboard that communicates important insights clearly and effectively.
+It provided hands-on experience in transforming raw patient data into a structured and visually appealing dashboard that communicates important insights effectively.
+
+---
+
+## 📂 Project Files
+
+| File                     | Description           |
+| ------------------------ | --------------------- |
+| `POWER_BI_DASHBOARD.png` | Dashboard preview     |
+| `Dashboard.xlsx`         | Completed dashboard   |
+| `README.md`              | Project documentation |
 
 ---
 
@@ -130,28 +151,19 @@ It also gave me hands-on experience in converting raw data into an interactive d
 
 **Riya Gohel**
 
-Aspiring Data Analyst | Power BI | Excel | SQL | Python
+Aspiring Data Analyst
+**Skills:** Excel • SQL • Python • Power BI • Data Analysis
 
 ---
 
 ## ⭐ Project Highlights
 
-- 📊 Interactive healthcare dashboard
-- 🔎 Data-driven insights
-- 🎨 Clean and user-friendly dashboard design
-- 📈 Multiple visualization techniques
-- 🔄 Iterative dashboard development
-- 💡 Practical data analytics experience
-
----
-
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| `POWER_BI_DASHBOARD.png` | Dashboard preview |
-| `Dashboard.xlsx` | Dataset used for analysis |
-| `README.md` | Project documentation |
+* 📊 Interactive healthcare dashboard
+* 🔎 Data-driven analysis
+* 🎨 Clean and user-friendly dashboard design
+* 📈 Multiple visualization techniques
+* 🔄 Iterative dashboard development
+* 💡 Practical data analytics experience
 
 ---
 
