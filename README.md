@@ -92,12 +92,6 @@ Shows the average time patients wait before receiving attention.
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Hospital Emergency Room Dashboard](Dashboard.png)
-
----
-
 ## 📈 What I Learned
 
 Through this project, I gained practical experience in:
